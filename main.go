@@ -17,3 +17,5 @@ func main() {
 	IMT := userKg / math.Pow(userHeight/100, IMTPower)
 	fmt.Printf("Ваш индекс массы тела: %.0f", IMT)
 }
+
+//kjnkljnln
